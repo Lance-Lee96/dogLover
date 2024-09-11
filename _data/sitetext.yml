@@ -40,9 +40,9 @@ en: &DEFAULT_EN
  
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "고양이에 대하여"
+    text: "고양이 이야기"
+    body: "고양이의 점프는 달콤하고, 부드러운 털 위에서 낮잠을 자며 꿈나라로 떠납니다. 그루밍하고, 냥냥거리는 소리, 그리고 창가에서 햇살을 즐깁니다. 귀여운 발톱과 따뜻한 포옹, 사랑스러운 고양이의 하루는 이렇게 흐릅니다."
     section: about
 
   
@@ -51,7 +51,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
